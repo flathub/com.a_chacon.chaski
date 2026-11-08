@@ -3788,6 +3788,13 @@
     },
     {
         "type": "file",
+        "url": "https://registry.yarnpkg.com/tinykeys/-/tinykeys-4.0.1.tgz#4f1226c6b55c9146eebd18061b314f62f69c0149",
+        "sha512": "ac297184b425f88e54301e4dcbbb1f9d9a8335ae75bbb87b878809576516b25c000c7130ef922e54f0a75aba4efe8b4cee31eb1e9c1c65d44777efff4a2239e4",
+        "dest-filename": "tinykeys-4.0.1.tgz",
+        "dest": "flatpak-node/yarn-mirror"
+    },
+    {
+        "type": "file",
         "url": "https://registry.yarnpkg.com/tslib/-/tslib-2.8.1.tgz#612efe4ed235d567e8aba5f2a5fab70280ade83f",
         "sha512": "a0916ef781d06fe29576e49440bef09e99aa9df98bb0e03f9c087a6fa107d30084a0ad3f98f79753a737c0a0d5f373243ae1cf447b525ca294f7d2016b34bfdb",
         "dest-filename": "tslib-2.8.1.tgz",
