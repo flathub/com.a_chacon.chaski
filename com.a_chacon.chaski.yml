@@ -23,8 +23,8 @@ modules:
     buildsystem: simple
     sources:
       - type: archive
-        url: https://github.com/a-chacon/chaski-app/archive/refs/tags/app-v0.9.0.tar.gz
-        sha256: c83242be1cabc7cbb05dab13ce994cb792092f728d61e44a997b3b05f6ba26f3
+        url: https://github.com/a-chacon/chaski-app/archive/refs/tags/app-v0.9.1.tar.gz
+        sha256: 35228199eddffa0577ab159265724a4657f8860a48cdc2ce992f4366f1ce6df1
 
       - yarn-sources.json
       - cargo-sources.json
